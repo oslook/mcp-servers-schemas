@@ -89,6 +89,7 @@ Thank you for contributing to our project!
 | [FlightRadar24](https://github.com/sunsetcoder/flightradar24-mcp-server) | A Claude Desktop MCP server that helps you track flights in real-time using Flightradar24 data. | [Schema](schemas/flightradar24-mcp-server.json) |
 | [X (Twitter)](https://github.com/vidhupv/x-mcp) | Create, manage and publish X/Twitter posts directly through Claude chat. | [Schema](schemas/x-mcp.json) |
 | [X (Twitter)](https://github.com/EnesCinr/twitter-mcp) | Interact with twitter API. Post tweets and search for tweets by query. | [Schema](schemas/twitter-mcp.json) |
+| [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) | Remote MCP server for X/Twitter search, posting, media, monitoring, draws, webhooks, compose, trends, and extraction workflows through Xquik. | [Schema](schemas/xquik-mcp.json) |
 | [RAG Web Browser](https://github.com/apify/mcp-server-rag-web-browser) | An MCP server for Apify's RAG Web Browser Actor to perform web searches, scrape URLs, and return content in Markdown. | [Schema](schemas/mcp-server-rag-web-browser.json) |
 | [XMind](https://github.com/apeyroux/mcp-xmind) | Read and search through your XMind directory containing XMind files. | [Schema](schemas/mcp-xmind.json) |
 | [oatpp-mcp](https://github.com/oatpp/oatpp-mcp) | C++ MCP integration for Oat++. Use [Oat++](https://oatpp.io) to build MCP servers. |  |
@@ -105,4 +106,3 @@ Thank you for contributing to our project!
 | [Atlassian](https://github.com/sooperset/mcp-atlassian) | Interact with Atlassian Cloud products (Confluence and Jira) including searching/reading Confluence spaces/pages, accessing Jira issues, and project metadata. |  |
 | [Google Tasks](https://github.com/zcaceres/gtasks-mcp) | Google Tasks API Model Context Protocol Server. | [Schema](schemas/gtasks-mcp.json) |
 | [Fetch](https://github.com/zcaceres/fetch-mcp) | A server that flexibly fetches HTML, JSON, Markdown, or plaintext | [Schema](schemas/fetch-mcp.json) |
-
