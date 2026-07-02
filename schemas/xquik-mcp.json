@@ -1,0 +1,48 @@
+{
+  "server_info": {
+    "name": "xquik",
+    "description": "Remote MCP server for Xquik's X/Twitter automation and data API.",
+    "repo_url": "https://github.com/Xquik-dev/x-twitter-scraper",
+    "server_type": "Community Servers",
+    "server_category": [
+      "Social Media"
+    ],
+    "server_version": "2.4.8"
+  },
+  "tools": [
+    {
+      "name": "explore",
+      "description": "Search and browse the Xquik X/Twitter API specification before making live API calls.",
+      "input_schema": {
+        "type": "object",
+        "properties": {
+          "code": {
+            "type": "string",
+            "description": "JavaScript async arrow function that filters spec.endpoints and returns matching endpoint metadata."
+          }
+        },
+        "required": [
+          "code"
+        ]
+      }
+    },
+    {
+      "name": "xquik",
+      "description": "Execute authenticated Xquik API requests for X/Twitter search, account lookup, posting, media, monitoring, draws, webhooks, compose, trends, and extraction workflows.",
+      "input_schema": {
+        "type": "object",
+        "properties": {
+          "code": {
+            "type": "string",
+            "description": "JavaScript async arrow function using xquik.request(path, { method, query, body }) to call Xquik REST endpoints."
+          }
+        },
+        "required": [
+          "code"
+        ]
+      }
+    }
+  ],
+  "resources": [],
+  "prompts": []
+}
