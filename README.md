@@ -106,3 +106,4 @@ Thank you for contributing to our project!
 | [Atlassian](https://github.com/sooperset/mcp-atlassian) | Interact with Atlassian Cloud products (Confluence and Jira) including searching/reading Confluence spaces/pages, accessing Jira issues, and project metadata. |  |
 | [Google Tasks](https://github.com/zcaceres/gtasks-mcp) | Google Tasks API Model Context Protocol Server. | [Schema](schemas/gtasks-mcp.json) |
 | [Fetch](https://github.com/zcaceres/fetch-mcp) | A server that flexibly fetches HTML, JSON, Markdown, or plaintext | [Schema](schemas/fetch-mcp.json) |
+| [Statsnet](https://github.com/usenetstate/statsnet-mcp) | Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` · Registry: `io.github.usenetstate/statsnet` |  |
